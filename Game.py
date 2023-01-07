@@ -62,4 +62,5 @@ while running:
     All_sprites.draw(screen)
     pygame.display.update()
 
+#check
 pygame.QUIT
